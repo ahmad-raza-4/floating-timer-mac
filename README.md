@@ -4,7 +4,7 @@
   # Floating Timer
 
   **A tiny, always-on-top countdown pill for macOS.**
-  Drag it anywhere, glance at it while you work, and never lose track of a session again.
+  Set it, pin it to your screen, and let it hold you to the time you promised yourself.
 
   [![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-blue)](#requirements)
   [![Swift](https://img.shields.io/badge/Swift-5.9-orange)](#requirements)
@@ -20,6 +20,14 @@
 <br/>
 
 Floating Timer is a lightweight, native macOS utility that keeps a small circular countdown pill floating above every window, on every Space, in every full-screen app. No Dock icon, no clutter — just a quiet timer that stays exactly where you put it.
+
+## Why Floating Timer
+
+Whether you're **studying**, **working**, **building** a side project, or just trying to **focus**, the hardest part usually isn't starting — it's staying honest about how long you actually meant to go for.
+
+That's the whole idea behind this app: you set a duration, the pill stays pinned on your screen the entire time, and its draining ring is a constant, quiet reminder that you still have planned, serious time left. You can't lose track of it in a background tab or a minimized window — it's always visible, always ticking.
+
+That visibility is the point. Knowing the timer is running — and that it's watching — nudges you to spend that time deliberately instead of drifting. It's less a productivity gadget and more a commitment device: once it's on the screen, you're far more likely to actually put in the planned time, and use it wisely.
 
 ## Features
 
